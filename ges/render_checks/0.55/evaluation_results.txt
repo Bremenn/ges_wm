@@ -1,0 +1,10 @@
+=== GES Watermark Evaluation Results ===
+PSNR: 18.793779
+SSIM: 0.756998
+LPIPS: 0.221695
+Bit_Accuracy: 32.124999
+
+Models evaluated:
+  Watermarked: D:\3dgsRelated\ges_wm\ges\outputs\t_and_t\timing=0.55\point_cloud\iteration_40000\point_cloud.ply
+  Original: D:\3dgsRelated\ges_wm\ges\outputs\t_and_t\original\point_cloud\iteration_40000\point_cloud.ply
+  Views rendered: 200
